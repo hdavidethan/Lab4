@@ -1,0 +1,42 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "std": {},
+        "abstractFSM_test": {
+            "Compiled": "Yes",
+            "Compiled Times": 3
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.12/_163592_archive_1.a",
+            "objects": [
+                [
+                    "amcQw_d.o",
+                    7344
+                ],
+                [
+                    "GDymH_d.o",
+                    68741
+                ]
+            ],
+            "size": 76085
+        }
+    ],
+    "CompUnits": {
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "out": "amcQw_d.o",
+            "bytes": 7344,
+            "mode": 4,
+            "archive": "archive.12/_163592_archive_1.a"
+        },
+        "GDymH_d": {
+            "mod": "abstractFSM_test",
+            "out": "GDymH_d.o",
+            "bytes": 68741,
+            "mode": 4,
+            "archive": "archive.12/_163592_archive_1.a"
+        }
+    }
+}

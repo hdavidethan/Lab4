@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE cov SYSTEM "ucdb_srcinfo.dtd">
+  <srcinfo name="/afs/andrew.cmu.edu/usr2/dchwang/private/18240/lab4"  >
+    <ucapi_version  major_ver="13"  minor_ver="1"  patch_str="J-2014.12-SP3-1"  />
+      <fileinfo name="lab4.sv"  id="0"  />
+    </srcinfo>

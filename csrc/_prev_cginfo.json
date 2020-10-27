@@ -1,0 +1,80 @@
+{
+    "NameTable": {
+        "abstractFSM_test": [
+            "abstractFSM_test",
+            "GDymH",
+            "module"
+        ],
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "stat": {
+        "nMops": 4285
+    },
+    "MlibObjs": {},
+    "PEModules": [],
+    "CurCompileModules": [
+        "...MASTER...",
+        "std",
+        "abstractFSM_test"
+    ],
+    "PrevCompiledModules": {
+        "abstractFSM_test": {
+            "GDymH_d": {
+                "mod": "abstractFSM_test",
+                "bytes": 63462,
+                "archive": "archive.11/_162296_archive_1.a",
+                "out": "GDymH_d.o",
+                "mode": 4
+            }
+        },
+        "std": {
+            "reYIK_d": {
+                "mod": "std",
+                "bytes": 34314,
+                "archive": "archive.11/_162296_archive_1.a",
+                "out": "reYIK_d.o",
+                "mode": 4
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "mod": "...MASTER...",
+                "bytes": 7344,
+                "archive": "archive.11/_162296_archive_1.a",
+                "out": "amcQw_d.o",
+                "mode": 4
+            }
+        }
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "CompileStrategy": "fullobj",
+    "Misc": {
+        "daidir_abs": "/afs/andrew.cmu.edu/usr2/dchwang/private/18240/lab4/simv.daidir",
+        "daidir": "simv.daidir",
+        "cwd": "/afs/andrew.cmu.edu/usr2/dchwang/private/18240/lab4",
+        "csrc": "csrc",
+        "csrc_abs": "/afs/andrew.cmu.edu/usr2/dchwang/private/18240/lab4/csrc",
+        "default_output_dir": "csrc",
+        "archive_dir": "archive.11"
+    },
+    "CurCompileUdps": {},
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 65437
+    },
+    "CompileProcesses": [
+        "cgproc.162296.json"
+    ],
+    "CompileStatus": "Successful"
+}

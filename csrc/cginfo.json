@@ -1,0 +1,79 @@
+{
+    "PrevCompiledModules": {
+        "std": {
+            "reYIK_d": {
+                "bytes": 30047,
+                "mod": "std",
+                "out": "reYIK_d.o",
+                "mode": 4,
+                "archive": "archive.12/_prev_archive_1.a"
+            }
+        },
+        "abstractFSM_test": {
+            "GDymH_d": {
+                "bytes": 67043,
+                "mod": "abstractFSM_test",
+                "out": "GDymH_d.o",
+                "mode": 4,
+                "archive": "archive.12/_163592_archive_1.a"
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "bytes": 7344,
+                "mod": "...MASTER...",
+                "out": "amcQw_d.o",
+                "mode": 4,
+                "archive": "archive.12/_163592_archive_1.a"
+            }
+        }
+    },
+    "MlibObjs": {},
+    "NameTable": {
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "abstractFSM_test": [
+            "abstractFSM_test",
+            "GDymH",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "CompileStrategy": "fullobj",
+    "LVLData": [
+        "SIM"
+    ],
+    "CurCompileUdps": {},
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 65030
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "abstractFSM_test"
+    ],
+    "stat": {
+        "nMops": 4072
+    },
+    "PEModules": [],
+    "CompileStatus": "Successful",
+    "CompileProcesses": [
+        "cgproc.163592.json"
+    ],
+    "Misc": {
+        "archive_dir": "archive.12",
+        "csrc": "csrc",
+        "cwd": "/afs/andrew.cmu.edu/usr2/dchwang/private/18240/lab4",
+        "default_output_dir": "csrc",
+        "csrc_abs": "/afs/andrew.cmu.edu/usr2/dchwang/private/18240/lab4/csrc",
+        "daidir": "simv.daidir",
+        "daidir_abs": "/afs/andrew.cmu.edu/usr2/dchwang/private/18240/lab4/simv.daidir"
+    }
+}
